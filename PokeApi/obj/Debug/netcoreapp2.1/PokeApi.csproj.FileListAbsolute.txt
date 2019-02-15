@@ -1,0 +1,14 @@
+C:\gitProjects\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.deps.json
+C:\gitProjects\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.runtimeconfig.json
+C:\gitProjects\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.runtimeconfig.dev.json
+C:\gitProjects\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.dll
+C:\gitProjects\PokeApi\PokeApi\bin\Debug\netcoreapp2.1\PokeApi.pdb
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.csprojAssemblyReference.cache
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.csproj.CoreCompileInputs.cache
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.RazorAssemblyInfo.cache
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.RazorAssemblyInfo.cs
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.AssemblyInfoInputs.cache
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.AssemblyInfo.cs
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.RazorTargetAssemblyInfo.cache
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.dll
+C:\gitProjects\PokeApi\PokeApi\obj\Debug\netcoreapp2.1\PokeApi.pdb
